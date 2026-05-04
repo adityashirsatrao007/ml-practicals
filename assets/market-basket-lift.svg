@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+    <rect width="100%" height="100%" fill="#fff"/>
+    <text x="450" y="40" text-anchor="middle" font-family="Arial" font-size="26" fill="#000">Market Basket Rule Lift</text>
+    <line x1="110" y1="420" x2="810" y2="420" stroke="#000" stroke-width="2"/>
+    <line x1="110" y1="420" x2="110" y2="90" stroke="#000" stroke-width="2"/>
+    <polyline points="160,360 260,310 360,280 460,240 560,205 660,170 760,145" fill="none" stroke="#000" stroke-width="4"/>
+    <g fill="#000">
+        <circle cx="160" cy="360" r="5"/>
+        <circle cx="260" cy="310" r="5"/>
+        <circle cx="360" cy="280" r="5"/>
+        <circle cx="460" cy="240" r="5"/>
+        <circle cx="560" cy="205" r="5"/>
+        <circle cx="660" cy="170" r="5"/>
+        <circle cx="760" cy="145" r="5"/>
+    </g>
+    <text x="450" y="460" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Rule Rank</text>
+    <text x="55" y="255" transform="rotate(-90 55 255)" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Lift</text>
+</svg>

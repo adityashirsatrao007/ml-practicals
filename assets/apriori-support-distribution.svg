@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+    <rect width="100%" height="100%" fill="#fff"/>
+    <text x="450" y="40" text-anchor="middle" font-family="Arial" font-size="26" fill="#000">Apriori Support Distribution</text>
+    <line x1="110" y1="420" x2="810" y2="420" stroke="#000" stroke-width="2"/>
+    <line x1="110" y1="420" x2="110" y2="90" stroke="#000" stroke-width="2"/>
+    <rect x="150" y="220" width="60" height="200" fill="#000"/>
+    <rect x="260" y="250" width="60" height="170" fill="#444"/>
+    <rect x="370" y="285" width="60" height="135" fill="#666"/>
+    <rect x="480" y="310" width="60" height="110" fill="#888"/>
+    <rect x="590" y="335" width="60" height="85" fill="#aaa"/>
+    <rect x="700" y="355" width="60" height="65" fill="#ccc"/>
+    <text x="180" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I1</text>
+    <text x="290" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I2</text>
+    <text x="400" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I3</text>
+    <text x="510" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I4</text>
+    <text x="620" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I5</text>
+    <text x="730" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#000">I6</text>
+    <text x="450" y="460" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Top Frequent Itemsets</text>
+    <text x="55" y="255" transform="rotate(-90 55 255)" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Support</text>
+</svg>

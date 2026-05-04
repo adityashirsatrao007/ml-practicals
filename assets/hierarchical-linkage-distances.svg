@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+    <rect width="100%" height="100%" fill="#fff"/>
+    <text x="450" y="40" text-anchor="middle" font-family="Arial" font-size="26" fill="#000">Hierarchical Linkage Distances</text>
+    <line x1="110" y1="420" x2="810" y2="420" stroke="#000" stroke-width="2"/>
+    <line x1="110" y1="420" x2="110" y2="90" stroke="#000" stroke-width="2"/>
+    <polyline points="140,390 220,370 300,350 380,330 460,300 540,265 620,210 700,130" fill="none" stroke="#000" stroke-width="4"/>
+    <g fill="#000">
+        <circle cx="140" cy="390" r="4"/>
+        <circle cx="220" cy="370" r="4"/>
+        <circle cx="300" cy="350" r="4"/>
+        <circle cx="380" cy="330" r="4"/>
+        <circle cx="460" cy="300" r="4"/>
+        <circle cx="540" cy="265" r="4"/>
+        <circle cx="620" cy="210" r="4"/>
+        <circle cx="700" cy="130" r="4"/>
+    </g>
+    <line x1="620" y1="90" x2="620" y2="420" stroke="#000" stroke-dasharray="8 6"/>
+    <text x="630" y="105" font-family="Arial" font-size="14" fill="#000">cut threshold</text>
+    <text x="450" y="460" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Merge Step</text>
+    <text x="55" y="255" transform="rotate(-90 55 255)" text-anchor="middle" font-family="Arial" font-size="16" fill="#000">Distance</text>
+</svg>

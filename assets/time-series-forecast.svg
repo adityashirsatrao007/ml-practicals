@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+    <rect width="100%" height="100%" fill="#fbf8f3"/>
+    <text x="450" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b2b2b" font-weight="700">Time Series Analysis and Forecasting</text>
+    <text x="450" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Original series, differenced trend, and ARIMA-style forecast</text>
+    <line x1="110" y1="410" x2="810" y2="410" stroke="#222" stroke-width="2"/>
+    <line x1="110" y1="410" x2="110" y2="90" stroke="#222" stroke-width="2"/>
+    <path d="M120 300 L170 290 L220 275 L270 265 L320 255 L370 240 L420 225 L470 210 L520 195 L570 185 L620 170 L670 160" fill="none" stroke="#457b9d" stroke-width="5"/>
+    <path d="M620 170 L670 160 L720 155 L770 150 L800 148" fill="none" stroke="#e76f51" stroke-width="5" stroke-dasharray="10 8"/>
+    <g fill="#457b9d" opacity="0.9">
+        <circle cx="120" cy="300" r="5"/>
+        <circle cx="170" cy="290" r="5"/>
+        <circle cx="220" cy="275" r="5"/>
+        <circle cx="270" cy="265" r="5"/>
+        <circle cx="320" cy="255" r="5"/>
+        <circle cx="370" cy="240" r="5"/>
+        <circle cx="420" cy="225" r="5"/>
+        <circle cx="470" cy="210" r="5"/>
+        <circle cx="520" cy="195" r="5"/>
+        <circle cx="570" cy="185" r="5"/>
+        <circle cx="620" cy="170" r="5"/>
+        <circle cx="670" cy="160" r="5"/>
+    </g>
+    <g fill="#e76f51" opacity="0.9">
+        <circle cx="720" cy="155" r="5"/>
+        <circle cx="770" cy="150" r="5"/>
+        <circle cx="800" cy="148" r="5"/>
+    </g>
+    <rect x="560" y="95" width="230" height="90" rx="12" fill="#fff" stroke="#d9d2c7"/>
+    <text x="575" y="122" font-family="Arial, sans-serif" font-size="14" fill="#333" font-weight="700">Legend</text>
+    <line x1="575" y1="142" x2="625" y2="142" stroke="#457b9d" stroke-width="4"/>
+    <text x="635" y="146" font-family="Arial, sans-serif" font-size="13" fill="#333">Observed data</text>
+    <line x1="575" y1="164" x2="625" y2="164" stroke="#e76f51" stroke-width="4" stroke-dasharray="10 8"/>
+    <text x="635" y="168" font-family="Arial, sans-serif" font-size="13" fill="#333">Forecast</text>
+    <text x="460" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#333">Time</text>
+    <text x="58" y="250" transform="rotate(-90 58 250)" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#333">Value</text>
+</svg>
